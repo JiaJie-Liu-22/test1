@@ -1,0 +1,3 @@
+hostname -I
+sudo service ssh start
+gedit id_rsa.pub 
